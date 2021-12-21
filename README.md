@@ -8,6 +8,7 @@ and [FAQ](https://github.com/Chia-Network/chia-blockchain/wiki/FAQ) for
 information on this project.
 
 ## Installing
+test
 
 This is the GUI for chia-blockchain. It is built into distribution packages in the chia-blockchain repository.
 
